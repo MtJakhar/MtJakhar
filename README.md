@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 Hi there, I'm Muizz Jakhar!
 
-<!--
-**MtJakhar/MtJakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I'm a [your job title], and you can find me on LinkedIn.
 
-Here are some ideas to get you started:
+📚 I enjoy reading nonfiction books on history, geopolitics, and philosophy. Recently, I've also been exploring the sci-fi and fantasy genres.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 I'm fascinated by languages, and I'm currently studying Farsi, Dari, and Urdu.
+
+🍸 When I'm not reading or studying, I love mixing cocktails and experimenting with new recipes.
+
+🎮 I'm an occasional gamer, and I particularly enjoy playing RPGs and strategy games.
+
+💻 Here are some of my skills:
+
+AWS cloud practitioner
+Full-stack development
+JavaScript
+ReactJS
+Node
