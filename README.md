@@ -1,6 +1,6 @@
 👋 Hi there, I'm Muizz Jakhar!
 
-💼 I'm a [your job title], and you can find me on LinkedIn.
+💼 I'm a full-stack developer, and you can find me on LinkedIn.
 
 📚 I enjoy reading nonfiction books on history, geopolitics, and philosophy. Recently, I've also been exploring the sci-fi and fantasy genres.
 
