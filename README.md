@@ -6,7 +6,7 @@ Full-Stack Developer
 
 *   🖥️  See my portfolio at [Journaling App](http://breakabletoy-journalapp.herokuapp.com/entries)
 *   ✉️  You can contact me at [mtjakhar2@gmail.com](mailto:mtjakhar2@gmail.com)
-*   🧠  I'm learning Material UI, and Next.Js### Skills 
+*   🧠  I'm learning Material UI, and Next.Js.
 *  📚 I enjoy reading nonfiction books on history, geopolitics, and philosophy. Recently, I've also been exploring the sci-fi and fantasy genres.
 *  🌍 I'm fascinated by languages, and I'm currently studying Farsi, Dari, and Urdu.
 *  🍸 When I'm not reading or studying, I love mixing cocktails and experimenting with new recipes.
