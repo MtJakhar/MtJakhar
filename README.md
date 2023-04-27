@@ -4,7 +4,7 @@ Hi 👋 My name is Muizz Jakhar
 Full-Stack Developer
 --------------------
 
-*   🖥️  See my portfolio at [Journaling App](http://breakabletoy-journalapp.herokuapp.com)
+*   🖥️  See my most recent project at [Journaling App](http://breakabletoy-journalapp.herokuapp.com)
 *   ✉️  You can contact me at [mtjakhar2@gmail.com](mailto:mtjakhar2@gmail.com)
 *   🧠  I'm learning Material UI, and Next.Js.
 *  📚 I enjoy reading nonfiction books on history, geopolitics, and philosophy. Recently, I've also been exploring the sci-fi and fantasy genres.
