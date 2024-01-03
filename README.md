@@ -3,7 +3,7 @@ Hi 👋 My name is Muizz Jakhar
 
 Full-Stack Developer
 --------------------
-
+*   🖥️  See the ecommerce project that I am currently working on https://github.com/MtJakhar/coffeeShop
 *   🖥️  See my most recent project at https://github.com/MtJakhar/nextjs-restaurant.
 *   🖥️  Here is my Launch Academy Project which has been deployed to Heroku . [Journaling App](http://breakabletoy-journalapp.herokuapp.com)
 *   ✉️   You can contact me at [mtjakhar2@gmail.com](mailto:mtjakhar2@gmail.com)
