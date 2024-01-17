@@ -3,9 +3,9 @@ Hi 👋 My name is Muizz Jakhar
 
 Full-Stack Developer
 --------------------
-*   🖥️  See the ecommerce project that I am currently working on https://github.com/MtJakhar/coffeeShop
-*   🖥️  See my most recent project at https://github.com/MtJakhar/nextjs-restaurant.
-*   🖥️  Here is my Launch Academy Project which has been deployed to Heroku . [Journaling App](http://breakabletoy-journalapp.herokuapp.com)
+*   🖥️  See the coffee ecommerce project that recently finished. https://github.com/MtJakhar/coffeeShop
+*   Deployed on Heroku [CoffeeShop](https://coffee-website-b4bde8141d32.herokuapp.com)
+*   🖥️  Here is my Launch Academy Project which has been deployed to Heroku. [Journaling App](http://breakabletoy-journalapp.herokuapp.com)
 *   ✉️   You can contact me at [mtjakhar2@gmail.com](mailto:mtjakhar2@gmail.com)
 *   🧠  I'm learning Material UI, and Next.Js.
 *   📚  I enjoy reading nonfiction books on history, geopolitics, and philosophy. Recently, I've also been exploring the sci-fi and fantasy genres.
